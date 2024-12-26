@@ -13,5 +13,14 @@ body{
     color: lightblue;
 }
 html {
-    font-family: "PT Sans", Calibri, Tahoma, sans-ser
+    font-family: "Jetbrains Mono", sans-serif;
+}
+@font-face {
+    font-family: 'JetBrains Mono';
+    src: url('https://cdn.jsdelivr.net/gh/JetBrains/JetBrainsMono/web/woff2/JetBrainsMono-Medium.woff2') format('woff2'),
+      url('https://cdn.jsdelivr.net/gh/JetBrains/JetBrainsMono/web/woff/JetBrainsMono-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
   }
+  
