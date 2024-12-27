@@ -7,7 +7,7 @@ body{
     
 }
 .link{
-    color:  darkolivegreen;
+    color:  rgb(116, 147, 63);
 }
 .Made{
     color: lightblue;
@@ -23,4 +23,12 @@ html {
     font-style: normal;
     font-display: swap;
   }
-  
+
+  .container {
+    display: flex;
+    align-items: center;
+}
+
+.logo-header {
+    margin-right: 10px; /* Adjust the spacing between the image and the heading */
+}
