@@ -32,3 +32,9 @@ html {
 .logo-header {
     margin-right: 10px; /* Adjust the spacing between the image and the heading */
 }
+
+.img {
+    margin: auto;
+    height: 100%;
+    width: 100%;
+  }
